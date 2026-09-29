@@ -173,7 +173,7 @@ Projeto profissional no qual participo do desenvolvimento de soluções web volt
 Projeto pessoal desenvolvido com foco em aplicar conhecimentos de desenvolvimento web em uma solução real, utilizando React, TypeScript, Tailwind CSS, Vite e Bun.
 
 ---
-
+<!--
 ### 📊 Estatísticas
 
 <p align="left">
@@ -189,3 +189,4 @@ Projeto pessoal desenvolvido com foco em aplicar conhecimentos de desenvolviment
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoLac&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+-->
